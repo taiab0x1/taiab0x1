@@ -1,4 +1,4 @@
-# Hi — I'm [Your Name], Aspiring SQA Engineer 👋
+# Hi — I'm Md. Taiab, Aspiring SQA Engineer 👋
 
 I’m currently pursuing a career in Software Quality Assurance (SQA). I enjoy building reliable workflows, writing automated tests, and improving product quality through careful, repeatable processes.
 
