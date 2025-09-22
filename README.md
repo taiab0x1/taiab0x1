@@ -36,13 +36,8 @@ I’m currently pursuing a career in Software Quality Assurance (SQA). I enjoy b
 
 ## Contact
 
-- Email: taiab.cse@gmail.com (use a dedicated address for GitHub/Job contact)
+- Email: taiab.cse@gmail.com
 
 ---
 
-If you'd like, I can also:
 
-- convert this into a polished `README.md` for your profile repo and publish it for you
-- scaffold a Playwright-based E2E test suite and a GitHub Actions workflow to run it automatically
-
-Just say which of those you'd like next and I'll implement it.
