@@ -1,11 +1,11 @@
-# Hi — I'm Md. Taiab, Aspiring SQA Engineer 👋
+# Hi — I'm taiab0x1 👋
 
-I’m currently pursuing a career in Software Quality Assurance (SQA). I enjoy building reliable workflows, writing automated tests, and improving product quality through careful, repeatable processes.
+I’m pursuing a career in Software Quality Assurance (SQA). I enjoy building reliable workflows, writing automated tests, and improving product quality through careful, repeatable processes.
 
 - 🔭 Current focus: test automation, CI pipelines, and exploratory testing practices
 - 🌱 Learning: Selenium, Playwright, pytest, BDD, test design techniques (boundary analysis, equivalence partitioning)
-- � Goals: transition into an SQA Engineer role and contribute to test strategy at scale
-- 📫 Contact: add email / LinkedIn / Twitter below
+- 🎯 Goals: transition into an SQA Engineer role and contribute to test strategy at scale
+- 📫 Contact: see the Contact section below
 
 ---
 
@@ -39,5 +39,3 @@ I’m currently pursuing a career in Software Quality Assurance (SQA). I enjoy b
 - Email: taiab.cse@gmail.com
 
 ---
-
-
